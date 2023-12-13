@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am [Bedram Tamang](https://twitter.com/tmg_bedus), a fullstack Software Engineer, specialize in Laravel, Vuejs, Tailwind, SQL, PHP, Python, with more than six years of professional experience.
+
+Presently, I am employed as a remote developer for [JoBins Co., Ltd.](https://corp.jobins.jp/), a company based in Japan. I hold a Master's Degree in [Computer Science and Information Technology](https://cdcsit.edu.np/), as well as a Bachelor's Degree in [Electronics and Communication Engineering.](https://www.ioepc.edu.np/)
+
+
+
+![Bedram Tamang's github stats](https://github-readme-stats.vercel.app/api?username=bedus-creation&hide=stars,issues&show_icons=true&count_private=true)
+
 <!--
 **bedus-creation/bedus-creation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
