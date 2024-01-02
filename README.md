@@ -4,6 +4,16 @@ I am [Bedram Tamang](https://twitter.com/tmg_bedus), a fullstack Software Engine
 
 Presently, I am employed as a remote developer for [JoBins Co., Ltd.](https://corp.jobins.jp/), a company based in Japan. I hold a Master's Degree in [Computer Science and Information Technology](https://cdcsit.edu.np/), as well as a Bachelor's Degree in [Electronics and Communication Engineering.](https://www.ioepc.edu.np/)
 
+### Laravel Packages
+* https://github.com/bedus-creation/role-permission
+* https://github.com/jobinsJP/api-generator
+* https://github.com/bedus-creation/laravel-media
+
+### Vue Packages
+* https://github.com/jobinsJP/formjs
+* https://github.com/JoBinsJP/vue3-datatable
+* https://github.com/JoBinsJP/vue3-headless-flash
+
 
 
 ![Bedram Tamang's github stats](https://github-readme-stats.vercel.app/api?username=bedus-creation&hide=stars,issues&show_icons=true&count_private=true)
