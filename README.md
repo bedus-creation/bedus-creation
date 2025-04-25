@@ -10,9 +10,20 @@ Presently, I am employed as a remote developer for [JoBins Co., Ltd.](https://co
 * [Blogs](https://dev.to/bedram-tamang)
 
 ### Recent Blogs
-* [Upgrade Laravel application from 5x to 10x](https://dev.to/bedram-tamang/upgrading-laravel-an-easy-step-by-step-guide-from-57-to-10x-5alc)
+#### PHP & Laravel
+* [Migrate Larave 5x to 10x](https://dev.to/bedram-tamang/upgrading-laravel-an-easy-step-by-step-guide-from-57-to-10x-5alc)
 * [Tinker Laravel application](https://dev.to/bedram-tamang/easiest-way-to-tinker-with-your-laravel-application-1aaj)
 * [Test doubles in PHPUnit](https://dev.to/bedram-tamang/test-doubles-in-php-with-mockery-and-phpunit-477h)
+* [Test Driven Development 1](https://dev.to/bedram-tamang/test-driven-development-in-laravel-folder-structure-setup-1-27l3)
+#### Vue
+* [Migrate Vue 2 to Vue 3](https://dev.to/bedram-tamang/vue-2-reaches-eol-upgrade-to-vue-3-now-koc)
+
+### Database & Optimization
+* [Duplicate rows Detection in SQL](https://dev.to/bedram-tamang/duplicate-rows-detection-in-mysql-70m)
+
+### AI, ML, Python
+* [Fine tunning T5 Model for a completely new Language](https://dev.to/bedram-tamang/fine-tuning-t5-small-model-for-a-completely-new-language-limbu-4c4n)
+  
 
 ### Laravel Packages
 * https://github.com/bedus-creation/role-permission
